@@ -1,5 +1,7 @@
 # Git Hooks for Chinese Character Detection
 
+> [English](README.md) | [中文说明](README_CN.md)
+
 A set of shell scripts to automatically detect and prevent Chinese characters in Git commits using global pre-commit hooks.
 
 ## Features
@@ -154,7 +156,3 @@ MIT License - feel free to use and modify as needed.
 3. Make your changes
 4. Test thoroughly
 5. Submit a pull request
-
----
-
-[中文说明](README_CN.md) | [English](README.md)

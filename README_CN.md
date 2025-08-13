@@ -1,5 +1,7 @@
 # Git 中文字符检测钩子
 
+> [中文说明](README_CN.md) | [English](README.md)
+
 一套用于自动检测和阻止Git提交中包含中文字符的shell脚本，使用全局pre-commit钩子实现。
 
 ## 特性
@@ -161,7 +163,3 @@ MIT许可证 - 可自由使用和修改。
 3. 进行修改
 4. 充分测试
 5. 提交pull request
-
----
-
-[中文说明](README_CN.md) | [English](README.md)
